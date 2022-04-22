@@ -1,0 +1,13 @@
+.flex {
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    }
+
+.item {
+    background-color: aqua;
+    margin: 3px;
+}
+
